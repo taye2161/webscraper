@@ -1,0 +1,5 @@
+# Ignoriere virtuelle Umgebungen
+venv/
+.env/
+__pycache__/
+
